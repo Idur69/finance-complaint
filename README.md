@@ -126,10 +126,3 @@ Update in airflow.cfg
 enable_xcom_pickling = True
 ```
 
-```
-DAY 13 (Data validation and Transforamtion)  : stop : 02:58:01  done
-
-DAY 14 (Training)  : stop : 03:56:03   done
-Day 15 (Prediction 2) : stop: 2.10.23  done
-DAY 16 (Deployment ) : stop: 1:18
-```
